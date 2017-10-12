@@ -11,4 +11,7 @@ plt.show()
 
 
 def update(hello):
-    pass
+    """
+    docstring
+    """
+    return hello

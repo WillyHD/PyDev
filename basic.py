@@ -16,3 +16,6 @@ def update(hello):
     docstring
     """
     return hello
+
+
+print("hello")

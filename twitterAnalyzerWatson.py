@@ -11,10 +11,10 @@ def analyze(handle):
     Docstring
     """
 
-    twitter_consumer_key = 'NAdGobZyRjWB55cdg6mF18waZ'
-    twitter_consumer_secret = 'CmBynt2j3qzbhN2xuzjX9Ogn7QJ9NhITLWahCusS9zoNVFIBLZ'
-    twitter_access_token = '284721234-cMnM0lWiWoVQCPE9m6KDfOw9GJejTexhPf7cuxca'
-    twitter_access_secret = 'IBWTV7aU4x1lXtlFFXmJqjdqYAsvVmxH3U5rZ9qGK31h3'
+    twitter_consumer_key = ''
+    twitter_consumer_secret = ''
+    twitter_access_token = ''
+    twitter_access_secret = ''
 
     twitter_api = twitter.Api(consumer_key=twitter_consumer_key, consumer_secret=twitter_consumer_secret,
                               access_token_key=twitter_access_token, access_token_secret=twitter_access_secret)
